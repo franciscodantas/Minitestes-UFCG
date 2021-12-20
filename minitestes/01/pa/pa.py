@@ -1,6 +1,6 @@
-a1 = int(input())
-an = int(input())
-n = int(input())
+n = float(input())
+a1 = float(input())
+an = float(input())
 
 somatoria = (n * (an + a1))/2
 
